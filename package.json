@@ -18,8 +18,7 @@
     "inquirer": "^9.1.5",
     "sequelize": "^6.30.0",
     "sqlite3": "^5.1.6",
-    "typescript": "^5.0.2",
-    "yargs": "^13.2.4"
+    "typescript": "^5.0.2"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.21.2",
