@@ -1,17 +1,17 @@
-# Question 1 - Programming
+# Programming
 
 ## Description
 ---
     A NODE CLI APP
-    It had two ways to run the List Question
+    It had two ways to run
 * Running with **Database**
     + The **Migration** will take a bit long for the first run but later the application can run faster.
     + Using SQL query with high performance and speed.
 * Running with **CVS**
     + No need to **Migration**.
     + Must take time to read the CSV file.
-    + The running time on each question waiting longer when use with BD.
-    + Performance and speed will same complex to optimize.
+    + The running time on each question waiting longer when used with BD.
+    + Performance and speed will become the same complex to optimize.
 ## Stack Usage
 ---
 ```bash
@@ -20,7 +20,7 @@
     $ Sqlite3 Database
     $ inquirer
     $ csv
-    $ axios
+    $ Axios
 ```
 ## Node JS
 ---
